@@ -18,10 +18,10 @@
 repository_root: "{default.repository.root}/openjdk/{platform}/{architecture}"
 version: 1.7.0_+
 memory_sizes:
-  permgen: 128m..
+  permgen: 96m..
   stack: 228k
 memory_heuristics:
-  heap: 75
+  heap: 62
   permgen: 10
-  stack: 5
+  stack: 18
   native: 10
