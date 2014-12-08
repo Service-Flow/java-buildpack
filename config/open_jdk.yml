@@ -21,7 +21,7 @@ memory_sizes:
   permgen: 96m..
   stack: 228k
 memory_heuristics:
-  heap: 62
+  heap: 75
   permgen: 10
-  stack: 18
+  stack: 5
   native: 10
